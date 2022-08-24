@@ -1,0 +1,5 @@
+const submit_button = document.getElementById("submit_button");
+submit_button.addEventListener("click", () => {
+  submit_button.classList.add("sending");
+  this.disabled = true;
+});

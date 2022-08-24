@@ -1,0 +1,4 @@
+fff -> main
+081c15 -> koyu yeşil (secondary)
+40916c -> orta yeşil (primary)
+95d5b2 -> açık yeşil (helper)
